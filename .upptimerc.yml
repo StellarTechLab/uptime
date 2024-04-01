@@ -14,10 +14,8 @@ sites:
       - MaksymVashchuk
   - name: API-BE Stage
     url: $API_BE_STAGE
-  - name: Test Broken Site
-    url: https://web.stg.mindscapeapp.io
-    assignees:
-      - ant-on-stellar
+
+skipDeleteIssues: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
