@@ -19,11 +19,16 @@ status-website:
   name: Upptime
   introTitle: "**Upptime** status page"
   introMessage: This is a sample status page
+  robotsText: "User-agent: * \n Disallow: /"
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+commitMessages:
+  commitAuthorName: "ant-on-stellar"
+  commitAuthorEmail: "157169278+ant-on-stellar@users.noreply.github.com"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
