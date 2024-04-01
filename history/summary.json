@@ -4,19 +4,19 @@
     "url": "https://web.mindscapeapp.io",
     "icon": "https://icons.duckduckgo.com/ip3/web.mindscapeapp.io.ico",
     "slug": "mindscape-prod",
-    "status": "degraded",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 176,
-    "timeDay": 166,
-    "timeWeek": 176,
-    "timeMonth": 176,
-    "timeYear": 176,
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
+    "time": 167,
+    "timeDay": 157,
+    "timeWeek": 167,
+    "timeMonth": 167,
+    "timeYear": 167,
     "dailyMinutesDown": {
-      "2024-04-01": 0
+      "2024-04-01": 6
     }
   },
   {
