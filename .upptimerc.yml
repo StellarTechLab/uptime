@@ -9,15 +9,17 @@ sites:
     url: https://web.stg.mindscapeapp.io
   - name: API-BE Stage
     url: $API_BE_STAGE
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.uselest.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://web.mindscapeapp.io/icons/Icon-192.png
   name: Upptime
-  introTitle: "**Upptime** status page"
+  introTitle: "**Uptime** status page"
   introMessage: This is a sample status page
   robotsText: "User-agent: * \n Disallow: /"
   navbar:
