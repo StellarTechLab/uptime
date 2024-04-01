@@ -14,7 +14,7 @@ sites:
   - name: API-BE Stage
     url: $API_BE_STAGE
   - name: Test Broken Site
-    url: https://broken-web.stg.mindscapeapp.io
+    url: https://web.stg.mindscapeapp.io
     assignees:
       - ant-on-stellar
 
