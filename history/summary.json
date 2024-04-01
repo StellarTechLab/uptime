@@ -4,18 +4,20 @@
     "url": "https://web.mindscapeapp.io",
     "icon": "https://icons.duckduckgo.com/ip3/web.mindscapeapp.io.ico",
     "slug": "mindscape-prod",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 169,
-    "timeDay": 158,
-    "timeWeek": 169,
-    "timeMonth": 169,
-    "timeYear": 169,
-    "dailyMinutesDown": {}
+    "status": "degraded",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 176,
+    "timeDay": 166,
+    "timeWeek": 176,
+    "timeMonth": 176,
+    "timeYear": 176,
+    "dailyMinutesDown": {
+      "2024-04-01": 0
+    }
   },
   {
     "name": "Mindscape Stage",
