@@ -5,8 +5,10 @@ repo: uptime # The name of this repository
 sites:
   - name: Mindscape Prod
     url: https://web.mindscapeapp.io
-  - name: Mindscape Test
-    url: https://web.tst.mindscapeapp.io
+  - name: Mindscape Stage
+    url: https://web.stg.mindscapeapp.io
+  - name: API-BE Stage
+    url: $API_BE_STAGE
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
