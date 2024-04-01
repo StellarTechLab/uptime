@@ -59,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/web.stg.mindscapeapp.io.ico",
     "slug": "test-broken-site",
     "status": "up",
-    "uptime": "78.57%",
-    "uptimeDay": "78.57%",
-    "uptimeWeek": "78.57%",
-    "uptimeMonth": "78.57%",
-    "uptimeYear": "78.57%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 54,
     "timeDay": 54,
     "timeWeek": 54,
     "timeMonth": 54,
     "timeYear": 54,
-    "dailyMinutesDown": {
-      "2024-04-01": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
