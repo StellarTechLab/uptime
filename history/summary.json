@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/web.mindscapeapp.io.ico",
     "slug": "mindscape-prod",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 119,
-    "timeDay": 46,
-    "timeWeek": 119,
-    "timeMonth": 119,
-    "timeYear": 119,
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 113,
+    "timeDay": 42,
+    "timeWeek": 103,
+    "timeMonth": 113,
+    "timeYear": 113,
     "dailyMinutesDown": {
       "2024-04-01": 6
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 178,
-    "timeWeek": 250,
-    "timeMonth": 250,
-    "timeYear": 250,
+    "time": 248,
+    "timeDay": 222,
+    "timeWeek": 248,
+    "timeMonth": 248,
+    "timeYear": 248,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1773,
-    "timeDay": 3668,
-    "timeWeek": 1773,
-    "timeMonth": 1773,
-    "timeYear": 1773,
+    "time": 1947,
+    "timeDay": 3689,
+    "timeWeek": 1947,
+    "timeMonth": 1947,
+    "timeYear": 1947,
     "dailyMinutesDown": {}
   }
 ]
