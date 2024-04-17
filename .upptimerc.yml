@@ -10,12 +10,15 @@ sites:
       - andrii-stellarlab
   - name: Mindscape Stage
     url: https://web.stg.mindscapeapp.io
+    maxResponseTime: 200
     assignees:
       - MaksymVashchuk
   - name: API-BE Stage
     url: $API_BE_STAGE
+    maxResponseTime: 5000
   - name: API-BE Prod
     url: $API_BE_PROD
+    maxResponseTime: 1000
 skipDeleteIssues: true
 
 status-website:
