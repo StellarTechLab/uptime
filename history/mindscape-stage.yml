@@ -1,7 +1,7 @@
 url: https://web.stg.mindscapeapp.io
-status: up
+status: degraded
 code: 200
-responseTime: 109
-lastUpdated: 2024-05-23T12:09:19.639Z
+responseTime: 11545
+lastUpdated: 2024-05-23T13:39:19.618Z
 startTime: 2024-04-01T11:58:17.328Z
 generator: Upptime <https://github.com/upptime/upptime>
