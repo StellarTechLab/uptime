@@ -1,7 +1,7 @@
 url: $API_BE_PROD
-status: down
-code: 500
-responseTime: 265
-lastUpdated: 2024-07-19T01:18:43.331Z
+status: up
+code: 200
+responseTime: 129
+lastUpdated: 2024-07-19T01:45:56.343Z
 startTime: 2024-04-17T15:34:48.844Z
 generator: Upptime <https://github.com/upptime/upptime>
