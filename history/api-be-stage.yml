@@ -1,7 +1,7 @@
 url: $API_BE_STAGE
-status: up
-code: 200
-responseTime: 3042
-lastUpdated: 2024-07-18T12:10:35.820Z
+status: down
+code: 500
+responseTime: 372
+lastUpdated: 2024-07-19T01:18:42.437Z
 startTime: 2024-04-01T11:58:17.953Z
 generator: Upptime <https://github.com/upptime/upptime>
