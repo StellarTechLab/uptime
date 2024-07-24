@@ -1,7 +1,7 @@
 url: $API_BE_STAGE
-status: down
+status: degraded
 code: 502
-responseTime: 3109
-lastUpdated: 2024-07-24T15:42:07.367Z
+responseTime: 5568
+lastUpdated: 2024-07-24T16:28:33.803Z
 startTime: 2024-04-01T11:58:17.953Z
 generator: Upptime <https://github.com/upptime/upptime>
